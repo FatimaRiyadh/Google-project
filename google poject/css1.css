@@ -1,0 +1,73 @@
+body{
+    font-family: Arial,  sans-serif;
+    padding: 0 3 ;
+    text-align:center;
+    background-color:rgb(235, 224, 235);
+}
+body {
+    margin: 0;
+    font-family: Comic Sans MS;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color:rgb(99, 0, 99);
+  }
+  
+  .topnav a {
+    float:left ;
+    color: #f2f2f2;
+    
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(27, 25, 25);
+  }
+  
+  .topnav a.active {
+    background-color:rgb(46, 42, 46) ;
+    color: white
+  }
+
+
+
+  .button {
+    background-color:rgb(230, 196, 169);
+    border: none;
+    color:rgb(99, 0, 99);
+    padding: 0px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 
+    cursor pointer;
+    }
+   
+   
+   .button1 {
+       background-color: rgb(99, 0, 99);
+       color: rgb(194, 127, 207);
+       border: 2px solid rgb(46, 42, 46);
+     }
+     .button1:hover {background-color: rgb(194, 127, 207) ;}
+   
+   
+     .button2{
+       background-color: rgb(99, 0, 99);
+       color:rgb(194, 127, 207);
+       border: 2px solid rgb(46, 42, 46);
+     }
+     .button2:hover {background-color: rgb(194, 127, 207);}
+   
+   
+     .button3 {
+       background-color: rgb(99, 0, 99);
+       color:rgb(194, 127, 207);
+       border: 2px solid rgb(46, 42, 46);
+     }
+     .button3:hover {background-color: rgb(194, 127, 207);}
